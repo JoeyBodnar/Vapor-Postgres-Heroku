@@ -41,6 +41,3 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
 //    services.register(commandConfig)
 
 }
-
-
-//Procfile: web: Run --env=production --port=$PORT --hostname=0.0.0.0
